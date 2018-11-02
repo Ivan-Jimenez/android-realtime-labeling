@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "587184401172",
+    "firebase_url": "https://android-realtime-labeling.firebaseio.com",
+    "project_id": "android-realtime-labeling",
+    "storage_bucket": "android-realtime-labeling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587184401172:android:3358b2d6395f9056",
+        "android_client_info": {
+          "package_name": "mx.ivancastro.android_realtime_labeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587184401172-9kkkcd1de6piga33rjdtbamm05p2j4cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpH--VOdNtfN-lkZ4XgGUIWEOlAUvsMRs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
